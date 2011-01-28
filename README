@@ -1,0 +1,4 @@
+These are my euler solutions.
+You will need the gmp library to run any of them.
+Make a folder called build, cd into that folder then run 'cmake ..', and then 'make' to make the programs.
+Feel free to use any code or solutions from these.
